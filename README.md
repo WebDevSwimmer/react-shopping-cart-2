@@ -28,9 +28,11 @@ For production build:
 npm run build
 ```
 
-## Licence
+## Copyright and license
 
-<p align="center"><img src="https://avatars0.githubusercontent.com/u/47046948?s=400&u=36182c0337c7199921a6d149eaf33bb77c12a1a9&v=4" width="50" height="50"/></p>
+The MIT License (MIT). Please see License File for more information.
+<p align="center"><img src="https://avatars3.githubusercontent.com/u/47307975?s=400&u=5d3a6ad302503c236b60f5d85a0e32d564898838&v=4" width="50" height="50"/></p>
 <p align="center">
-<sub>A little project by <a href="http://www.jeffersonribeiro.com/">Maksim Rabtsevich</a></sub>
+  <sub>A little project by <a href="https://github.com/zhangwei5479">Zhang Wei</a></sub>
+</p>
 </p>
